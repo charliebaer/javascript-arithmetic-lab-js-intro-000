@@ -18,4 +18,3 @@ function decrement(n){
   n--;
   return(n)
 }
-
